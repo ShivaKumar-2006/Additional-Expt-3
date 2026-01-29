@@ -36,6 +36,6 @@ public class PalindromeCheck {
         sc.close();
     }
 }
-
+```
 # output:
 ![output of palindrome](palindrome.png)
